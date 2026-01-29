@@ -23,9 +23,11 @@
 - Copy frames from SD card to PC
 - Use FFmpeg to stitch frames into a video
 
-Example command:
-```bash(important)
-ffmpeg -framerate 10 -i frame_%d.jpg output.mp4```
-
 Btw I have also provided the ffmpeg.exe file in the tools dir so you don't have to bash your head, and 
 don't forget to put the exe file in the images folder in your sd card.
+
+Example command:
+```bash(important)
+ffmpeg -framerate 10 -i frame_%d.jpg output.mp4
+
+
