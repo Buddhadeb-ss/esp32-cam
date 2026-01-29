@@ -28,6 +28,6 @@ don't forget to put the exe file in the images folder in your sd card.
 
 Example command:
 ```bash(important)
-ffmpeg -framerate 10 -i frame_%d.jpg output.mp4
+./ffmpeg -framerate 10 -i frame_%d.jpg output.mp4
 
 
