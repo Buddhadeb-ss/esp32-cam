@@ -13,4 +13,4 @@ ESP32 → JPEG frames → SD card → FFmpeg → MP4
 
 ## Documentation
 Step-by-step setup and usage guide:
-- [Build and Usage Guide](docs/guide.md)
+- [Build and Usage Guide](tools/guide.md)
